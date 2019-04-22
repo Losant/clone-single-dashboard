@@ -1,0 +1,11 @@
+{
+  "name": "clone-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "losant-rest": "^2.3.5",
+    "omnibelt": "^1.3.0"
+  }
+}
