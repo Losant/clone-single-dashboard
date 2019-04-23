@@ -14,15 +14,15 @@ const userAuthParams = {
     "email": "LOSANT EMAIL",
     "password": "PASSWORD"
   }
-};
+}
 
 var sourceDashboardParams = {
   dashboardId: "DASHBOARDID"
-};
+}
 
 var targetDashboardParams = {
   applicationId: "APPLICATIONID"
-};
+}
 ```
 
 This code will transfer the dashboard at `DASHBOARDID` to `APPLICATIONID`
