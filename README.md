@@ -16,11 +16,11 @@ const userAuthParams = {
   }
 }
 
-var sourceDashboardParams = {
+const sourceDashboardParams = {
   dashboardId: "DASHBOARDID"
 }
 
-var targetDashboardParams = {
+const targetDashboardParams = {
   applicationId: "APPLICATIONID"
 }
 ```
