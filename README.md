@@ -1,6 +1,6 @@
-# Clone Single Dashbaord
+# Clone Single Dashboard
 
-This repo provides come boilerplate code to transfer a single owner dashboard.
+This project provides som boilerplate code to transfer a single owner dashboard.
 
 1. Clone Repo
 
